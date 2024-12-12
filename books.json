@@ -1,0 +1,22 @@
+[
+    {
+        "title": "python",
+        "author": "tanvir",
+        "isbn": 17009,
+        "year": 2022,
+        "price": 500,
+        "quantity": 100,
+        "bookAddedAt": "12-12-2024 15:22:57",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "java 2.0",
+        "author": "sadman",
+        "isbn": 11239,
+        "year": 2000,
+        "price": 400,
+        "quantity": 40,
+        "bookAddedAt": "12-12-2024 16:04:28",
+        "bookLastUpdatedAt": "12-12-2024 16:20:38"
+    }
+]
